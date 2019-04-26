@@ -1,6 +1,7 @@
 ---
 # PLOT #2
 # Global Active Power Time Series
+# Author: jpacilo
         
 library(data.table)
 library(dplyr)
