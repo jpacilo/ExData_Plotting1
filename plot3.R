@@ -1,6 +1,7 @@
 ---
 # PLOT #3
 # Global Active Power Sub Metering
+# Author: jpacilo
 
 library(data.table)
 library(dplyr)
