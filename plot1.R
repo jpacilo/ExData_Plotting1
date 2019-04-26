@@ -1,6 +1,8 @@
 ---
+
 # PLOT #1
 # Global Active Power Histogram
+# Author: jpacilo
         
 library(data.table)
 library(dplyr)
